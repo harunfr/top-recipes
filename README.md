@@ -7,4 +7,4 @@ Only basic html knowledge used in this project. Here is what I learned by doing 
 * Without using advanced routes, direct user to other pages.
 * Adding width attribute to img may help quick development to see how image is seen on screen without using css.
 
-[This site] may help developers to make same project. (https://www.theodinproject.com/paths/foundations/courses/foundations/lessons/recipes#viewing-your-project-on-the-web)
+[This site](https://www.theodinproject.com/paths/foundations/courses/foundations/lessons/recipes#viewing-your-project-on-the-web) may help developers to make same project.
